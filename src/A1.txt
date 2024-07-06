@@ -1,0 +1,7 @@
+Ticket Information
+Seat      : 1
+Price     : $200.0
+Person Information
+Name      : ddgt
+Surname   : hiug
+Email     : ggfg

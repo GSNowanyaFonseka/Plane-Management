@@ -1,0 +1,7 @@
+Ticket Information
+Seat      : 8
+Price     : $150.0
+Person Information
+Name      : fdfg
+Surname   : oiiu
+Email     : ooio

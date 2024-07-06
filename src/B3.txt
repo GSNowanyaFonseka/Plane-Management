@@ -1,0 +1,8 @@
+Ticket Information
+Row : B
+Seat : 3
+Price : $200.0
+Person Information
+Name: l
+Surname: l
+Email: l
